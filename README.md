@@ -41,7 +41,7 @@ A composite momentum score is calculated as a weighted combination:
 
 $$S_t = 0.4 \cdot r_t^{(5)} + 0.6 \cdot r_t^{(20)}$$
 
-where $r_t^{(h)}$ represents the h-period log return at time $t$.
+where $r_t^{(h)}$ represents the h-period simple return at time $t$.
 
 ### 2.2 Trading Signals
 
